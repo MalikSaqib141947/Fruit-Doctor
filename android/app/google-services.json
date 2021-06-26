@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199394818724",
+    "firebase_url": "https://fruit-doctor.firebaseio.com",
+    "project_id": "fruit-doctor",
+    "storage_bucket": "fruit-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199394818724:android:958ee52fd270a8ef3a4431",
+        "android_client_info": {
+          "package_name": "com.fruitdoctor.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199394818724-rpn7t2o9vi46eor18oukbfp614kclu69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fruitdoctor.mobileapp",
+            "certificate_hash": "7ee56d352ba8bc24774e28eb0528507b02625bbd"
+          }
+        },
+        {
+          "client_id": "199394818724-r0h396ugvifsqgi47u64hfg65aghm0hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuUfcXOTXcIJSAr4ugeCEk-M0ynJ9Akk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199394818724-r0h396ugvifsqgi47u64hfg65aghm0hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

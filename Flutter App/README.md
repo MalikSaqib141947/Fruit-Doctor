@@ -1,16 +1,16 @@
-# fruit_doctor
+# FRUIT DOCTOR
 
-A new Flutter application.
+Fruit Doctor is an android and IOS mobile application which allows the users, especially the farmers to diagnose diseases in their fruits on early stages and prevent other fruits by applying the chemical and biological solutions suggested by the app. It helps them prevent the potential devastation by the outspread of a disease. Also the app has a fruit grading module which grades the quality of the fruits. The application has a community forum and a news section which keeps the user updated about the local and international outspreads and trends. A user can also organize his farming tasks easily.
 
-## Getting Started
+# Technologies used
 
-This project is a starting point for a Flutter application.
+- Flutter
+- MERN Stack
+- Python
+- Flask
+- Tensorflow
+- Keras
 
-A few resources to get you started if this is your first Flutter project:
+# YouTube Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Visit Fruit Doctor](youtube.com/watch?v=7ISySb8i1wQ)

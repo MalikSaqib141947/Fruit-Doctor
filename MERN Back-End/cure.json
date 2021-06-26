@@ -1,0 +1,898 @@
+{
+    "cures": {
+        "apple": {
+            "Apple Scab": {
+                    "id":0,
+                    "name":"Apple Scab ",
+                    "genericName":"Venturia inaequalis",
+                    "pest":"Fungus Venturia inaequalis",
+                    "picture":"https://netreefruit.org/sites/netreefruit.org/files/images/apple_scab_mature_fruit_sm.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=tj8JCh4Why4",
+                    "symptoms":"Apple scab can occur on any apple tissue, but is most commonly seen on leaves and fruit. Small, raised, fuzzy, olive-colored spots will first appear on fruit cluster leaves near bloom, or on early vegetative leaves and immature fruit after petal fall. On leaves, infections may be visible on the top or undersurface. These primary lesions expand if untreated, turning yellow and eventually black. \n With heavy infections, the entire leaf turns yellow and drops. Leaves that are completely covered with scab are said to have “sheet scab”. Secondary lesions, formed by spores produced in the first or primary lesions, are similar to the primary lesions. They develop on vegetative leaves or fruit through the growing season. Scab infections on fruit first appear as gray to black spots that develop cracks as fruit grows. Tissue becomes brown and corky around and in infections. Multiple infections deform the fruit. In storage, fruit infected at the end of the growing season may develop small, dark spots called “pinpoint scab”.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"There are an increasing number of bio-pesticide products that have been labelled for controlling apple scab. However, while they may work reasonably well under low inoculum conditions, they are limited in their ability to manage apple scab under high disease pressure."
+                        } 
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "name":"Early season - silver tip through tight-cluster",
+                            "Description":" A dormant to green tip application of a copper fungicide primarily targeting fire blight is recommended, and is a spray that will also give 5 to 7 days of protection against scab. A combination of captan (3 lb. of Captan 50W or equivalent) plus an EBDC fungicide (3 lb of Dithane M45 or equivalent), a so-called “captozeb” mix, is effective in most orchards at this time. In blocks where scab pressure is high or during extended wet weather, applications should include Syllit, Vangard or Scala. Do not apply more than two applications of these materials in a season.",
+                            "chemicals":"A combination of captan (3 lb. of Captan 50W or equivalent) plus an EBDC fungicide (3 lb of Dithane M45 or equivalent)"
+                        },
+                        {
+                            "methodNo":2,
+                            "name":"Tight cluster through pink",
+                            "Description":"Scab pressure is low, the captan/EBDC mix is sufficient. Keep in mind, this is the time when primary scab risk is highest so do not take risks. For moderate to high risk situations, combine a multi-site fungicide, captan or EBDC, with a site-specific fungicide.",
+                            "chemicals": "strobilurine / QoI - Flint or Sovran, SDHI - Fontelis or Aprovia, SDHI plus QoI pre-mix - Luna Sensation, Merivon or Luna Tranquility.  " 
+                            
+                        },
+                        {
+                            "methodNo":3,
+                            "name":"Petal fall through first cover",
+                            "Description":"gain, where and when scab pressure is low a captan/EBDC mix is sufficient. In higher risk situations, combine a multi-site fungicide, captan or EBDC, with a site-specific fungicide",
+                            "chemicals": "DMI fungicide with high efficacy against scab - Inspire Super, Indar, Topguard, or Rally \n strobilurine / QoI - Flint or Sovran \n strobilurine / QoI - Flint or Sovran \n SDHI - Fontelis or Aprovia \n SDHI plus QoI pre-mix - Luna Sensation, Merivon or Luna Tranquility "
+                            
+                        }
+                    ]
+            },
+            "Black Rot": {   
+                "id":2,
+                "name":"Black Rot ",
+                "genericName":"Guignardia bidwellii",
+                "pest":"Fungus Diplodia seriata (syn Botryosphaeria obtusa)",
+                "picture":"http://www.omafra.gov.on.ca/english/crops/hort/news/hortmatt/2013/25hrt13a1f2.jpg",
+                "youtube":"https://www.youtube.com/watch?v=HT_qdcl0cp8&t=2s",
+                "symptoms":"The first signs of black rot are small, purple spots appearing on the upper surfaces of leaves and enlarging into circles 1∕8 to ¼ inch in diameter. Leaf margins remain purple, while the centers turn brown, tan, or yellowish brown, giving the lesions a frogeye appearance. Small, black pycnidia (pimplelike fruiting bodies of the fungus) may appear in lesion centers. Infected areas of branches and limbs are reddish brown and are sunken slightly below the level of surrounding healthy bark. These cankers may expand each year, a few eventually reaching several feet in length. The margins of older cankers are slightly raised and lobed, and the bark within their centers usually turns light-colored, loosens, and scales off raggedly. This characteristic is not confined to black rot cankers, so it is not a good diagnostic symptom. Pycnidia form on dead wood of the cankered areas.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "name":"",
+                        "Description":"Since stress predisposes apple trees to white rot and black rot, take measures to minimize stressors, such as water stress, winter injury, disease, and insect damage. Management programs based on sanitation to reduce inoculum levels in the orchard are the primary means of control. Prune out cankers, dead branches, twigs, etc. which serve as inoculum sources and dispose of dead wood. This should be an important component of both current-season and long-range management. Prune and remove cankers at least 15 inches below the basal end; properly dispose of prunings by burial or burning. Remove mummified fruit of black rot if practical. Cortland apples are especially prone to forming black rot mummies."
+                    } 
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "name":"",
+                        "Description":"Captan + Topsin M and fungicides containing a strobilurin (FRAC Group 11 Fungicides) as an active ingredient are effective at managing white rot and black rot on fruit. Merivon provides excellent control of summer diseases such as white rot, black rot, bitter rot, fly speck and sooty blotch. Note: sterol inhibitor fungicides, such as Indar, Rally, Topguard, have no activity against black rot.",
+                        "chemicals":"Captan + Topsin M"
+                    }
+                    
+                ]
+            },
+            "Cedar Apple Rust": {   
+                "id":3,
+                "name":"Cedar Apple Rust",
+                "genericName":"Juniperus virginianae",
+                "pest":"Fungal pathogen called Gymnosporangium juniperi-virginianae",
+                "picture":"http://www.omafra.gov.on.ca/english/crops/facts/cedarapf2.jpg",
+                "youtube":"https://www.youtube.com/watch?v=ynCBHri2zDk",
+                "symptoms":"Symptoms begin to appear on the upper surface of apple leaves shortly after bloom. Leaves that are three to four weeks old are fairly resistant to infection, but younger leaves and fruit are susceptible, depending on the cultivar. Small, pale yellow spots appear on the upper surface of leaves (Figure. 4-131) and on fruit (Figure 4-132). Eventually, small black spots (spermagonia) appear within the centre of the lesions. The lesions grow larger and more orange-coloured, often with a red margin.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "name":"",
+                        "Description":"Look for for galls and small yellow spots on the leaves, two primary symptoms of cedar-apple disease. Galls, which appear on the branch tips, are comprised of rough, coarse wood, have a bulbous shape, and range from three-eighths inch to over 1 inch in diameter. Sever affected branches 2 inches from the gall with bypass pruners or long-reach pruners using a clean straight cut. Allow the healthy portion of the branch to remain intact and attached to the tree."
+                    } 
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "name":"",
+                        "Description":"Apply contact fungicide to trees in close proximity to the infected cedar according to the manufacturer’s guidelines. Look for the active ingredient potassium bicarbonate, approved in California for contact fungicide. Spray the trees, including trunk, branches and foliage, when you see yellow spots on the leaves, which often occurs in mid-April. Apply systemic fungicide, which is absorbed through capillary action and travels throughout the tree. Look for the active ingredients tebuconazole and fluopyram or fludioxonil andcyprodinil. Spray the trunk, branches and foliage according to the manufacturer’s guidelines.",
+                        "chemicals":"Potassium bicarbonate, Tebuconazole and fluopyram or fludioxonil andcyprodinil" 
+                    }
+                    
+                ]
+            },
+            "Healthy": {   
+                "id":3,
+                "name":"Healthy",
+                "genericName":"Healthy",
+                "pest":"None",
+                "picture":"https://p1.piqsels.com/preview/630/791/589/apple-apple-tree-leaves.jpg",
+                "youtube":"",
+                "symptoms":"",
+                "biological":[
+                    
+                ],
+                "chemical":[
+                    
+                    
+                ]
+            }
+        },
+        "corn": {
+            "Grey Leaf Spot": {   
+                "id":0,
+                "name":"Grey Leaf Spot",
+                "genericName":"Cercospora zeae-maydis",
+                "pest":" fungus Cercospora zeae-maydis",
+                "picture":"https://crop-protection-network.s3.amazonaws.com/articles/Gray-leaf-spot-Adam-Sisson-56.jpg",
+                "youtube":"https://www.youtube.com/watch?v=107Xz8HslXM",
+                "symptoms":"Gray leaf spot lesions begin as small necrotic pinpoints with chlorotic halos, these are more visible when leaves are backlit. \n Coloration of initial lesions can range from tan to brown before sporulation begins. \n Because early lesions are ambiguous, they are easily confused with other foliar diseases such as anthracnose leaf blight, eyespot, or common rust. \n As infection progresses, lesions begin to take on a more distinct shape.\n Lesion expansion is limited by parallel leaf veins, resulting in the blocky shaped “spots”. \n As sporulation commences, the lesions take on a more gray coloration. \n Entire leaves can be killed when weather conditions are favorable, and rapid disease progression causes lesions to merge.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties. In places where leaf spot occur, these crops can ultimately grow and still be resistant to the disease. Although the disease is not completely eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield. SC 407 have been proven to be common corn variety that are resistant to grey leaf spot. If grey leaf spot infection is high, this variety may require fungicide application to achieve full potential. Susceptible varieties should not be planted in previously infected areas. \n The amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"The impact of GLS is more severe if plants are affected early in their development. Early planting can help reduce yield losses by ensuring the crop is at a later stage of grain fill when conditions are typically favorable for GLS development",
+                        "chemicals":"Headline EC (active ingredient: pyraclostrobin), Quilt (active ingredient: azoxystrobin + propiconazole), Proline 480 SC (active ingredient: prothioconazole), Tilt 250 E, Bumper 418 EC (active ingredient: propiconazole)"
+                            
+                    }
+                ]
+            },
+            "Common Rust": {   
+                "id":1,
+                "name":"Common Rust",
+                "genericName":"Puccinia sorghi Schwein",
+                "pest":"Fungus Puccinia sorghi",
+                "picture":"https://crop-protection-network.s3.amazonaws.com/articles/Common-rust-Daren-Mueller-20.jpg",
+                "youtube":"https://www.youtube.com/watch?v=rCMy8ZietMY",
+                "symptoms":"Lesions begin as flecks on leaves that develop into small tan spots \n Spots turn into elongated brick-red to cinnamon-brown pustules with jagged appearance \n Found on both upper AND lower leaf surfaces (unlike southern rust) \n Pustules turn dark brown to black late in the season \n Occurs on leaf only, NOT on sheaths, stalks, ear shanks and husk leaves",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties. In places where leaf spot occur, these crops can ultimately grow and still be resistant to the disease. Although the disease is not completely eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield. SC 407 have been proven to be common corn variety that are resistant to grey leaf spot. If grey leaf spot infection is high, this variety may require fungicide application to achieve full potential. Susceptible varieties should not be planted in previously infected areas. \n The amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"Rust spores arrive from outside the immediate area planted to corn, it is difficult to predict when this spray should be applied. Threshold has been proposed for initiation of fungicide sprays on later plantings of susceptible sweet corn. This threshold is only a guideline and is still in the process of being validated.",
+                        "chemicals":"Ethylene Bis Dithiocarbamates \n Thiophthalimides"
+                    }
+                ]
+            },
+            "Northern Leaf Blight":{   
+                "id":2,
+                "name":"Northern Leaf Blight",
+                "genericName":"Turcicum leaf blight",
+                "pest":"Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica",
+                "picture":"https://crop-protection-network.s3.amazonaws.com/articles/NLB-Daren-Mueller-02.jpg",
+                "youtube":"https://www.youtube.com/watch?v=O-wstwVPGz8",
+                "symptoms":"Typical symptoms of northern corn leaf blight are canoe-shaped lesions 1 inch to 6 inches long. The lesions are initially bordered by gray-green margins. They eventually turn tan colored and may contain dark areas of fungal sporulation. The length or size of lesions may vary with in different corn hybrids reactions with different resistance genes. Lesions begin on the lower leaves and then spread to upper leaves. Severe symptoms can progress rapidly, resulting in blighted leaves. The disease can be confused with symptoms of Goss's leaf blight on some hybrids, and perhaps with Stewarts wilt where this disease occurs.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Crop rotation remains a solid tactic to help diminish disease threats. Rotating from corn to non-host crops helps reduce favorable environmental conditions for disease pathogens, risk of infection and disease levels. Any type of tillage that helps reduce crop residue from a previous corn crop will help manage northern corn leaf blight and other diseases overwintering in corn residue. Using a combination of management practices is particularly recommended in continuous corn grown with no-till and reduced tillage cropping systems."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"Foliar fungicides may be applied early in the growing season to corn seedlings as a risk-management tool for northern corn leaf blight and other corn diseases, including anthracnose leaf blight and corn eyespot. After northern corn leaf blight is identified during the growing season, fungicides should be applied early in the disease outbreak for maximum effectiveness.",
+                        "chemicals":"Ethylene Bis Dithiocarbamates, Thiophthalimides"
+                    }
+                ]
+            },
+            "Healthy": {   
+                "id":3,
+                "name":"Healthy",
+                "genericName":"Healthy",
+                "pest":"None",
+                "picture":"https://ak.picdn.net/shutterstock/videos/10333433/thumb/1.jpg",
+                "youtube":"",
+                "symptoms":"",
+                "biological":[
+                    
+                ],
+                "chemical":[
+                    
+                    
+                ]
+            }
+
+        },
+        "papaya": {
+            "Anthracnose": {   
+                "id":0,
+                "name":"Anthracnose",
+                "genericName":"Colletotrichum gloeosporioides",
+                "pest":"Pathogen Colletotrichum gloeosporioides",
+                "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/07/papaya-anthracnose-400x267.jpg",
+                "youtube":"https://www.youtube.com/watch?v=peQ60DIJI9A",
+                "symptoms":"Papaya fruit start out hard with smooth green skins. As they mature, however, the skin turns golden and the flesh softens. That’s when the anthracnose can appear. \n If your tree has developed the disease anthracnose, you may see small tan to gray spots on papaya fruit or foliage. As these spots grow, they become larger sunken lesions with a water-soaked appearance. These spots are the initial symptoms of anthracnose of papaya trees. You’ll see the centers of the spots blacken over time. As the fungus produces spores, the black spots turn pink and the fruit beneath gets extremely soft",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Early action means that you can probably avoid using chemicals when treating papaya anthracnose. Use cultural control measures like harvesting mature fruit promptly, instead of leaving it on the tree. You should also remove all dead leaves and fruit from the garden. Take special care to get all those fallen under and around the papaya tree. Cleaning up weeds or other garden debris can prevent the spread of papaya anthracnose from rain splash back and plant-to-plant contact. Also, always sanitize tools to prevent the spread of diseases."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"Before papaya flowers appear or just as they appear, preventative fungicides may help control papaya anthracnose. Use a fungicide containing Copper hydroxide, Mancozeb, Azoxystrobin or Bacillus. Spray the orchard with the fungicide every two to four weeks.",
+                        "chemicals":"Copper hydroxide, Mancozeb, Azoxystrobin or Bacillus"
+                    }
+                ]
+            },
+            "Black Spot": {   
+                "id":1,
+                "name":"Black Spot",
+                "genericName":"Colletotrichum gloeosporioides",
+                "pest":"Fungus Asperisporium caricae",
+                "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/06/papaya-blackk-spot.jpg",
+                "youtube":"https://www.youtube.com/watch?v=peQ60DIJI9A",
+                "symptoms":"Initially, scattered tan spots, sometimes with a yellow halo, appear on lower leaves. On the underside of the leaves, these spots later enlarge and develop into black, raised, powdery pustules of up to 4 mm in diameter. At later stages of the disease, the lesions become necrotic and can cover large parts of the leaf. In heavy infections or co-infections with other fungal pathogens, diseased leaves can shed, leading to loss of vigor in affected trees. Shallow, light brown, irregular lesions with black fungal specks on their center are also visible on diseased fruit, although in a lesser measure than on leaves. Premature drop can occur when fruits are infected at early development stages. Despite the lesions, fruit flesh does show no signs of rotting. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"No alternative treatment against Asperisporium caricae has been discovered so far. Please get in touch with us in case you know of something that might help to fight this disease. Looking forward to hearing from you."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always considere an integrated approach with preventive measures together with biological treatments if available. Spraying with foliar fungicides such as dithiocarbamates can be effective in cases of heavy infestations. ",
+                        "chemicals":"fungicides such as dithiocarbamates"
+                    }
+                ]
+            },
+            "Phythophthora": {   
+                "id":2,
+                "name":"Phytophthora",
+                "genericName":"viburnum",
+                "pest":"Fungus Oidium caricae-papayae",
+                "picture":"https://live.staticflickr.com/5797/20768611298_683f68c7f7_b.jpg",
+                "youtube":"https://www.youtube.com/watch?v=dQTmPrFbw5E",
+                "symptoms":"Papaya plants of all ages are susceptible to Phytophthora root rot but seedlings up to 2 months old are most susceptible. Leaves of affected plants turn yellow, wil and eventually drop prematurely.\n Root rot generally originates as minor lesions on smaller lateral roots which quickly develop into a major rot of the tap root making trees unstable and prone to damage during high winds. Phytophthora is also known to cause stem or trunk rot following severe storms and cyclonic events. Brown sunken cankers occur on the stem and if favour-able wet weather for disease development prevails the upper portion of the plant will collapse due to the expanding rot. \n Immature and mature green fruit infected with Phytophthora develop water-soaked lesions and if conditions remain favourable for disease development, fruit become covered with off-white mycelium of the pathoge Infected fruit falling to the ground are considered a major source of the disease.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Root rot of papaya seedlings, caused by P. palmivora, in replant fields can be controlled with the virgin soil technique. Virgin soil (soil in which papaya has never been grown in before) is placed in planting holes about 30 cm in diameter and 10 cm deep with a mound about 4 cm high. Roots of papaya plants are protected by the virgin soil during the susceptible stage, and become resistant to the pathogen when they extend to the infested soil. Trees established with the virgin soil method in the replant fields produce fruit as abundantly as those growing in the first planting fields. The virgin soil method has the advantages of being relatively inexpensive, very effective and nonhazardous. \n Cultural practice is also important in the management of Phytophthora diseases of papaya. Incidence of Phytophthora root rot of mature trees in waterlogged areas during the rainy periods can be greatly reduced by improving drainage in the orchards. Infected fruit on the trees and those that have fallen to the ground should be removed to reduce the inoculum for aerial infection of fruit and stems, and infection of seedling roots in subsequent plantings."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Phytophthora fruit rot of papaya can be controlled by fungicides. Application of a preventive fungicide such as mancozeb or basic copper sulfate to the fruit column are effective in protecting papaya fruit from infection by P. palmivora. ",
+                        "chemicals":"Fungicide such as mancozeb or basic copper sulfate"
+                    }
+                ]
+            },
+            "Powdery Mildew": {   
+                "id":3,
+                "name":"Powdery mildew",
+                "genericName":"Golovinomyces orontii",
+                "pest":"",
+                "picture":"https://lh3.googleusercontent.com/proxy/L8tjLWk-GRICDFNKVMViLQdmNO9gmDjQm4jKcMVIdTEFZ8SsPlzIts5E9MvP_eJFETz7h7W3ia-2qc-LV_1c2ro",
+                "youtube":"https://www.youtube.com/watch?v=mnda9xV5RLM",
+                "symptoms":"White patches of fungal growth develop on the lower surface of the leaf. Under favourable conditions, the patches enlarge and merge to cover the entire lower surface. \n Leaf edges curl upwards, exposing the white, powdery fungal growth \n Purple to reddish blotches may also develop on leaves.\n Tiny, round, black fungal structures (cleistothecia) may also be present on the underside of the leaves. \n Pathogen colonises the fruit and produces white mycelial growth on the seeds giving it a powdery appearance \n Surfaces of the fruit harden and may crack.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":" Wettable sulfur, sulfur dust, or lime sulfur as well as potassium bicarbonate have proved helpful in controlling this disease. However, these treatments can be toxic to the plants if applied during hot weather. In some cases, baking powder, neem oil extracts and soap solutions can be useful. In all cases, these treatments are not very effective if the disease is severe. "
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"  Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides such as azoxystrobin, mancozeb can be applied to control powdery mildew on papaya.  ",
+                        "chemicals":"Fungicides such as azoxystrobin, mancozeb"
+                    }
+                ]
+            },
+            "Ring Spot": {   
+                "id":4,
+                "name":"Ring Spot",
+                "genericName":"papaya ringsopt",
+                "pest":" Papaya ringspot virus - type P (PRSV-P) (Potyviridae)",
+                "picture":"https://4.bp.blogspot.com/-1SDxUxFOw_8/WtECD0X5e8I/AAAAAAAAn6M/XJy2TSsh4iAQP9wlonW3wQCmCQCbzg4egCK4BGAYYCw/s1600/picture-789876.jpg",
+                "youtube":"https://www.youtube.com/watch?v=u-70SMh0QoY",
+                "symptoms":" Initially, scattered tan spots, sometimes with a yellow halo, appear on lower leaves. On the underside of the leaves, these spots later enlarge and develop into black, raised, powdery pustules of up to 4 mm in diameter. At later stages of the disease, the lesions become necrotic and can cover large parts of the leaf. In heavy infections or co-infections with other fungal pathogens, diseased leaves can shed, leading to loss of vigor in affected trees. Shallow, light brown, irregular lesions with black fungal specks on their center are also visible on diseased fruit, although in a lesser measure than on leaves. Premature drop can occur when fruits are infected at early development stages. Despite the lesions, fruit flesh does show no signs of rotting. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"  No alternative treatment against Asperisporium caricae has been discovered so far. Please get in touch with us in case you know of something that might help to fight this disease. Looking forward to hearing from you. "
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always considere an integrated approach with preventive measures together with biological treatments if avvailable. Spraying with foliar fungicides such as dithiocarbamates can be effective in cases of heavy infestations. ",
+                        "chemicals":"Spraying with foliar fungicides such as dithiocarbamates"
+                    }
+                ]
+            }
+
+            
+        },
+        "strawberry": {
+            "Leaf Scrotch": {   
+                "id":0,
+                "name":"Leaf Scorch",
+                "genericName":"Diplocarpon earlianum",
+                "pest":"Fungus Diplocarpon earliana",
+                "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/09/strawberry-scorch-400x267.jpg",
+                "youtube":"https://www.youtube.com/watch?v=CYP_i2_wYgw",
+                "symptoms":"Irregular dark purple or brown blotches on upper leaf surface which may colaesce to produce large purplish brown patches; tissue between blotches may turn purple or red; lesions may also develop on flowers and fruits; affected petals may wither and drop from plant; lesions may girdle peduncles causing death of fruit. Avoid amendment with supplemental nitrogen in spring, as this may enhance disease. Keep moisture levels down and avoid long wetness periods by monitoring irrigation schedules; if possible, use drip irrigation rather than overhead. Remove foliage and crop residues after picking or at renovation to remove inoculum and delay disease increase in late summer and fall. Fungicide treatments are effective during the flowering period, and during late summer and fall.",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Plant resistant varieties; regular renewal of plants; plant in an area with good air circulation and drainage in full sun; remove all foliage from plants at harvest"
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":"As far as chemical control is concerned, while there are some differences in the timing and biology of the leaf spot fungi, they mostly respond similarly to broad-spectrum fungicides and can be managed collectively. The exception is angular leaf spot. Since this disease is caused by a bacterial pathogen, it does not respond to most fungicides except copper. Below is a table of efficacy ratings of fungicides for leaf spot control in strawberries. Since infections often occur on the leaf underside, good coverage of both leaf surfaces is needed, especially of young leaves, which are most susceptible.",
+                        "chemicals":"Azoxystrobin, potassium bicarbonate, trifloxystrobin, penthiopyrad, difenoconazole + cyprodinil + pyraclostrobin + boscalid"
+                    }
+                ]
+            },
+            "Healthy": {   
+                "id":3,
+                "name":"Healthy",
+                "genericName":"Healthy",
+                "pest":"None",
+                "picture":"https://oftheharvest.files.wordpress.com/2013/02/strawberry-leaf.jpg?w=584",
+                "youtube":"",
+                "symptoms":"",
+                "biological":[
+                    
+                ],
+                "chemical":[
+                    
+                    
+                ]
+            }
+        },
+        "orange": {
+            "Anthracnose": {   
+                "id":0,
+                "name":"Anthracnose",
+                "genericName":"Colletotrichum gloeosporioides",
+                "pest":"ungus Colletotrichum musa",
+                "picture":"https://www.techagro.org/public/journals/4/article_851_cover_en_US.jpg",
+                "youtube":"https://www.youtube.com/watch?v=N-jlU2Sv8Dk",
+                "symptoms":"Leaves dropping prematurely; leaves covered in dark fungal spores; red to green or black streaks on the mature fruits",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":" Bio-fungicides based on Bacillus subtilis or Bacillus amyloliquefaciens work fine if applied during favorable weather conditions. Hot water treatment of seeds or fruits (48°C for 20 minutes) can kill any fungal residue and prevent further spreading of the disease in the field or during transport. Foliar sprays or seed treatments with fungicides containing copper sulfate can be used to lower the risk of infection. "
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing azoxystrobin or chlorothalonil can be sprayed regularly to lower the risk of infection. Seed treatment with these compounds can also be envisaged. Finally, post-harvest fungicides together with a food-grade wax can be applied to reduce the incidence of fruits bound to be shipped to overseas markets. ",
+                        "chemicals":"Fungicides containing azoxystrobin or chlorothalonil can be sprayed regularly"
+                    }
+                ]
+            },
+            "Brown Rot": {   
+                "id":1,
+                "name":"Brown Rot",
+                "genericName":"Phytophthora spp",
+                "pest":"Fungus overwinters in dry leaves or mummified fruits hanging from the trees and its spores are spread via wind, water or insects. The infection is favored by the presence of wounds on fruits (birds, insects) or by the contact between healthy and infected parts",
+                "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsanZQipHsZqWAssJM2rIJbciZQq7URa4wSg&usqp=CAU",
+                "youtube":"https://www.youtube.com/watch?v=N-jlU2Sv8Dk",
+                "symptoms":" Symptoms vary depending on the crop and are mainly characterized by a blossom blight and a fruit rot phase. The first symptom of blossom blight is the withering of flowers, which turn brown and often remain affixed to the twig in a gummy mass. Infections may extend into the twig and can girdle it. If shoots do not die off completely, the infection is carried over from the blossom to the developing leaves and fruits. Leaves dry out but remain on the tree throughout the whole year. Fruit rot can affect fruits hanging on trees as well as stored ones. Soft, brown patches appear on the fruits. As the patches grow, white or yellow pustules develop on the tan areas, sometimes in concentric circles. The fruits gradually dehydrate, rot, and mummify on the tree. Stored fruits may not develop pustules and may turn completely black. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":" The eradication of the wounding agent is the most effective ways of controlling the fruit rot phase. Control of insects and birds that serve as vectors or that inflict wounds on fruits is one way to reduce the incidence of the disease. Birds may be controlled with scarecrows. Wasp nests should be sought out and destroyed. Particular care is needed in packing and storage of fruit because the fungus can spread between fruits. "
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Cherries are the least susceptible stone fruit to this disease and preventive sprays may not be needed unless the weather is particularly favorable for infection or the orchard has a history of this disease. One of two applications of fungicides based on difenoconazole and fenhexamid can be effective. At a later stage of infection, it is not possible to eliminate the fungus. Use a protective fungicide after adverse weather conditions such as hail. Insect control may be an important consideration because Monilia laxa prefers infection through wounds. ",
+                        "chemicals":"Fungicides based on difenoconazole and fenhexamid can be effective"
+                    }
+                ]
+            },
+            "Citrus Canker": {   
+                "id":2,
+                "name":"Citrus canker",
+                "genericName":"Xanthomonas axonopodis",
+                "pest":"bacteria Xanthomonas",
+                "picture":"https://www.apsnet.org/edcenter/disandpath/prokaryote/PublishingImages/CitrusCankerlead.jpg",
+                "youtube":"https://www.youtube.com/watch?v=_a5VhAILNhU",
+                "symptoms":" Trees can be affected at all stages of their development and symptoms may appear on leaves, fruits or twigs. Tiny, slightly raised and spongy lesions develop first on both surfaces of newly-infected leaves. As they mature, these spots develop into rust-brown wart-like craters that are surrounded by a distinctive bright yellow halo. They eventually erupt, releasing their content, and forming a typical lesion with a light brown or gray center and oily, water-soaked brownish margin. Occasionally, the center of old cankers fall out, leaving behind a shot-hole effect. Similar symptoms can appear on fruits and twigs, where the cankers can reach a sizable dimension. The center of the lesion becomes characteristically raised, scabby or corky. Defoliation and premature fruit drop ensue and twigs may be killed by girdling of vascular tissues. Fruits that reach maturity are not marketable. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":" Unfortunately, no effective biological control methods are available at this time. . "
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Unfortunately, there is no effective control on citrus canker once it has been detected. Preventive measures such as the clearing and destruction of fallen tree material are essential to minimize the effect of the disease. The control of citrus psyllids can also be a way to limit the damage. Copper-based fungicides or bactericides can provide a barrier against infection, but they will not treat an existing infection. ",
+                        "chemicals":"Copper-based fungicides or bactericides can provide a barrier against infection"
+                    }
+                ]
+            }
+
+        },
+        "banana": {
+            "Anthracnose": {   
+                "id":0,
+                "name":"Anthracnose ",
+                "genericName":"Colletotrichum musae",
+                "pest":"Fungus Colletotrichum musa",
+                "picture":"https://res.cloudinary.com/jamefiles/image/fetch/c_scale,h_179,w_320/https://www.histerius.com/hs0220/anthracnose_banana.jpg",
+                "youtube":"https://www.youtube.com/watch?v=5YhEZNXsh7s",
+                "symptoms":" The fungus causes dark-brown to black, sunken spots on the peel of infected fruits. Initial symptoms are visible on green fruits, and are characterized by dark-brown to black lenticular, sunken lesions with pale margins on the peel. On yellowing fruits, these lesions are of variable sizes and can coalesce to become sizable black sunken patches. Orange to salmon pink colored fungal growth appear in their center. The symptoms can also start to appear on the tip of the fruit and result from a former floral infection. Affected fruits can ripen prematurely, with the pulp becoming progressively affected by rot. The first symptoms may also appear long after harvest, during transportation or storage. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Treatments of fruits at harvest with biofungicides based on 10% Arabic gum together with 1.0% chitosan (a derivative of chitin) has been shown to partly control the disease during storage. A variety of plant-based mixtures have been used with some success to avoid the growth of the pathogen, including citric extracts,  Zingiber officinale rhizome extracts as well as leaf extracts of Acacia albida, Polyalthia longifolia and Clerodendrum inerme. These promising data still need to be confirmed in field experiments. Immersion of green fruits in hot water at 55°C for 2 minutes also reduces the incidence."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. During cultivation, banana bunches can be sprayed with products containing mancozeb (0.25 %) or benzimidazoles (0.05 %) and later covered to avoid any contamination. Harvested fruits can be dipped or sprayed with fungicides containing benzimidazole. Coating of the fruits with the food-grade chemical butylated hydroxyanisole (BHA) might have the potential to enhance the activity of these fungicides. ",
+                        "chemicals":"Sprayed with products containing mancozeb (0.25 %) or benzimidazoles (0.05 %)"
+                    }
+                ]
+            },
+            "Black Sigatoka": {   
+                "id":1,
+                "name":"Black sigatoka ",
+                "genericName":"Colletotrichum musae",
+                "pest":"Fungi Mycosphaerrela sp.",
+                "picture":"https://www.apsnet.org/edcenter/apsnetfeatures/Article%20Images/Sigatoka04.jpg",
+                "youtube":"https://www.youtube.com/watch?v=lb8_f_VwPhc",
+                "symptoms":" The fungus causes dark-brown to black, sunken spots on the peel of infected fruits. Initial symptoms are visible on green fruits, and are characterized by dark-brown to black lenticular, sunken lesions with pale margins on the peel. On yellowing fruits, these lesions are of variable sizes and can coalesce to become sizable black sunken patches. Orange to salmon pink colored fungal growth appear in their center. The symptoms can also start to appear on the tip of the fruit and result from a former floral infection. Affected fruits can ripen prematurely, with the pulp becoming progressively affected by rot. The first symptoms may also appear long after harvest, during transportation or storage. ",
+                "biological":[
+                    {
+                        "methodNo":1,
+                        "Description":"Treatments of fruits at harvest with biofungicides based on 10% Arabic gum together with 1.0% chitosan (a derivative of chitin) has been shown to partly control the disease during storage. A variety of plant-based mixtures have been used with some success to avoid the growth of the pathogen, including citric extracts,  Zingiber officinale rhizome extracts as well as leaf extracts of Acacia albida, Polyalthia longifolia and Clerodendrum inerme. These promising data still need to be confirmed in field experiments. Immersion of green fruits in hot water at 55°C for 2 minutes also reduces the incidence."
+                    }
+                ],
+                "chemical":[
+                    {
+                        "methodNo":1,
+                        "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing mancozeb, calixin or chlorothalonil can be applied as foliar sprays when disease is not widespread. Rotations of systemic fungicides such as propiconazole, fenbuconazole or azoxystrobin also work fine. The rotation is important to prevent the build up of resistance in the fungus. ",
+                        "chemicals":"Fungicides such as propiconazole, fenbuconazole or azoxystrobin also work fine"
+                    }
+                ]
+            }
+        }
+    },
+    "diseases":[
+        {   "id":0,
+            "name":"apple",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Apple Scab ",
+                    "genericName":"Venturia inaequalis",
+                    "pest":"Fungus Venturia inaequalis",
+                    "picture":"https://www.google.com/search?q=Apple+scab&nfpr=1&sxsrf=ALeKk03S2sLj0AVafyRD06i-nF7oR1P8Uw:1621526029192&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw1dqXz9jwAhUEolwKHYbXBYoQ_AUoAXoECAEQAw&biw=1366&bih=667#imgrc=WGT9jFM7MffGJM",
+                    "youtube":"https://www.youtube.com/watch?v=tj8JCh4Why4",
+                    "symptoms":"Apple scab can occur on any apple tissue, but is most commonly seen on leaves and fruit. Small, raised, fuzzy, olive-colored spots will first appear on fruit cluster leaves near bloom, or on early vegetative leaves and immature fruit after petal fall. On leaves, infections may be visible on the top or undersurface. These primary lesions expand if untreated, turning yellow and eventually black. \n With heavy infections, the entire leaf turns yellow and drops. Leaves that are completely covered with scab are said to have “sheet scab”. Secondary lesions, formed by spores produced in the first or primary lesions, are similar to the primary lesions. They develop on vegetative leaves or fruit through the growing season. Scab infections on fruit first appear as gray to black spots that develop cracks as fruit grows. Tissue becomes brown and corky around and in infections. Multiple infections deform the fruit. In storage, fruit infected at the end of the growing season may develop small, dark spots called “pinpoint scab”.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"There are an increasing number of bio-pesticide products that have been labelled for controlling apple scab. However, while they may work reasonably well under low inoculum conditions, they are limited in their ability to manage apple scab under high disease pressure."
+                        } 
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "name":"Early season - silver tip through tight-cluster",
+                            "Description":" A dormant to green tip application of a copper fungicide primarily targeting fire blight is recommended, and is a spray that will also give 5 to 7 days of protection against scab. A combination of captan (3 lb. of Captan 50W or equivalent) plus an EBDC fungicide (3 lb of Dithane M45 or equivalent), a so-called “captozeb” mix, is effective in most orchards at this time. In blocks where scab pressure is high or during extended wet weather, applications should include Syllit, Vangard or Scala. Do not apply more than two applications of these materials in a season.",
+                            "chemicals":"A combination of captan (3 lb. of Captan 50W or equivalent) plus an EBDC fungicide (3 lb of Dithane M45 or equivalent)"
+                        },
+                        {
+                            "methodNo":2,
+                            "name":"Tight cluster through pink",
+                            "Description":"Scab pressure is low, the captan/EBDC mix is sufficient. Keep in mind, this is the time when primary scab risk is highest so do not take risks. For moderate to high risk situations, combine a multi-site fungicide, captan or EBDC, with a site-specific fungicide.",
+                            "chemicals": "strobilurine / QoI - Flint or Sovran \n SDHI - Fontelis or Aprovia \n SDHI plus QoI pre-mix - Luna Sensation, Merivon or Luna Tranquility.  " 
+                            
+                        },
+                        {
+                            "methodNo":3,
+                            "name":"Petal fall through first cover",
+                            "Description":"gain, where and when scab pressure is low a captan/EBDC mix is sufficient. In higher risk situations, combine a multi-site fungicide, captan or EBDC, with a site-specific fungicide",
+                            "chemicals": "DMI fungicide with high efficacy against scab - Inspire Super, Indar, Topguard, or Rally \n strobilurine / QoI - Flint or Sovran \n strobilurine / QoI - Flint or Sovran \n SDHI - Fontelis or Aprovia \n SDHI plus QoI pre-mix - Luna Sensation, Merivon or Luna Tranquility "
+                            
+                        }
+                    ]
+                },
+                 {   
+                    "id":2,
+                    "name":"Black Rot ",
+                    "genericName":"Guignardia bidwellii",
+                    "pest":"Fungus Diplodia seriata (syn Botryosphaeria obtusa)",
+                    "picture":"http://www.omafra.gov.on.ca/english/crops/hort/news/hortmatt/2013/25hrt13a1f2.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=HT_qdcl0cp8&t=2s",
+                    "symptoms":"The first signs of black rot are small, purple spots appearing on the upper surfaces of leaves and enlarging into circles 1∕8 to ¼ inch in diameter. Leaf margins remain purple, while the centers turn brown, tan, or yellowish brown, giving the lesions a frogeye appearance. Small, black pycnidia (pimplelike fruiting bodies of the fungus) may appear in lesion centers. Infected areas of branches and limbs are reddish brown and are sunken slightly below the level of surrounding healthy bark. These cankers may expand each year, a few eventually reaching several feet in length. The margins of older cankers are slightly raised and lobed, and the bark within their centers usually turns light-colored, loosens, and scales off raggedly. This characteristic is not confined to black rot cankers, so it is not a good diagnostic symptom. Pycnidia form on dead wood of the cankered areas.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"Since stress predisposes apple trees to white rot and black rot, take measures to minimize stressors, such as water stress, winter injury, disease, and insect damage. Management programs based on sanitation to reduce inoculum levels in the orchard are the primary means of control. Prune out cankers, dead branches, twigs, etc. which serve as inoculum sources and dispose of dead wood. This should be an important component of both current-season and long-range management. Prune and remove cankers at least 15 inches below the basal end; properly dispose of prunings by burial or burning. Remove mummified fruit of black rot if practical. Cortland apples are especially prone to forming black rot mummies."
+                        } 
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"Captan + Topsin M and fungicides containing a strobilurin (FRAC Group 11 Fungicides) as an active ingredient are effective at managing white rot and black rot on fruit. Merivon provides excellent control of summer diseases such as white rot, black rot, bitter rot, fly speck and sooty blotch. Note: sterol inhibitor fungicides, such as Indar, Rally, Topguard, have no activity against black rot.",
+                            "chemicals":"Captan + Topsin M"
+                        }
+                        
+                    ]
+                },
+                  {   
+                    "id":3,
+                    "name":"Cedar Apple Rust",
+                    "genericName":"Juniperus virginianae",
+                    "pest":"Fungal pathogen called Gymnosporangium juniperi-virginianae",
+                    "picture":"http://www.omafra.gov.on.ca/english/crops/facts/cedarapf2.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=ynCBHri2zDk",
+                    "symptoms":"Symptoms begin to appear on the upper surface of apple leaves shortly after bloom. Leaves that are three to four weeks old are fairly resistant to infection, but younger leaves and fruit are susceptible, depending on the cultivar. Small, pale yellow spots appear on the upper surface of leaves (Figure. 4-131) and on fruit (Figure 4-132). Eventually, small black spots (spermagonia) appear within the centre of the lesions. The lesions grow larger and more orange-coloured, often with a red margin.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"Look for for galls and small yellow spots on the leaves, two primary symptoms of cedar-apple disease. Galls, which appear on the branch tips, are comprised of rough, coarse wood, have a bulbous shape, and range from three-eighths inch to over 1 inch in diameter. Sever affected branches 2 inches from the gall with bypass pruners or long-reach pruners using a clean straight cut. Allow the healthy portion of the branch to remain intact and attached to the tree."
+                        } 
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "name":"",
+                            "Description":"Apply contact fungicide to trees in close proximity to the infected cedar according to the manufacturer’s guidelines. Look for the active ingredient potassium bicarbonate, approved in California for contact fungicide. Spray the trees, including trunk, branches and foliage, when you see yellow spots on the leaves, which often occurs in mid-April. Apply systemic fungicide, which is absorbed through capillary action and travels throughout the tree. Look for the active ingredients tebuconazole and fluopyram or fludioxonil andcyprodinil. Spray the trunk, branches and foliage according to the manufacturer’s guidelines.",
+                            "chemicals":"Potassium bicarbonate \n Tebuconazole and fluopyram or fludioxonil andcyprodinil" 
+                        }
+                        
+                    ]
+                }
+            ]
+        },
+        {   "id":1,
+            "name":"Corn",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Grey Leaf Spot",
+                    "genericName":"Cercospora zeae-maydis",
+                    "pest":" fungus Cercospora zeae-maydis",
+                    "picture":"https://crop-protection-network.s3.amazonaws.com/articles/Gray-leaf-spot-Adam-Sisson-56.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=107Xz8HslXM",
+                    "symptoms":"Gray leaf spot lesions begin as small necrotic pinpoints with chlorotic halos, these are more visible when leaves are backlit. \n Coloration of initial lesions can range from tan to brown before sporulation begins. \n Because early lesions are ambiguous, they are easily confused with other foliar diseases such as anthracnose leaf blight, eyespot, or common rust. \n As infection progresses, lesions begin to take on a more distinct shape.\n Lesion expansion is limited by parallel leaf veins, resulting in the blocky shaped “spots”. \n As sporulation commences, the lesions take on a more gray coloration. \n Entire leaves can be killed when weather conditions are favorable, and rapid disease progression causes lesions to merge.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties. In places where leaf spot occur, these crops can ultimately grow and still be resistant to the disease. Although the disease is not completely eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield. SC 407 have been proven to be common corn variety that are resistant to grey leaf spot. If grey leaf spot infection is high, this variety may require fungicide application to achieve full potential. Susceptible varieties should not be planted in previously infected areas. \n The amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"The impact of GLS is more severe if plants are affected early in their development. Early planting can help reduce yield losses by ensuring the crop is at a later stage of grain fill when conditions are typically favorable for GLS development",
+                            "chemicals":"Headline EC (active ingredient: pyraclostrobin)\n Quilt (active ingredient: azoxystrobin + propiconazole) \n Proline 480 SC (active ingredient: prothioconazole) \n Tilt 250 E, Bumper 418 EC (active ingredient: propiconazole)"
+                                
+                        }
+                    ]
+                },
+                {   
+                    "id":1,
+                    "name":"Common Rust",
+                    "genericName":"Puccinia sorghi Schwein",
+                    "pest":"Fungus Puccinia sorghi",
+                    "picture":"https://crop-protection-network.s3.amazonaws.com/articles/Common-rust-Daren-Mueller-20.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=rCMy8ZietMY",
+                    "symptoms":"Lesions begin as flecks on leaves that develop into small tan spots \n Spots turn into elongated brick-red to cinnamon-brown pustules with jagged appearance \n Found on both upper AND lower leaf surfaces (unlike southern rust) \n Pustules turn dark brown to black late in the season \n Occurs on leaf only, NOT on sheaths, stalks, ear shanks and husk leaves",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"The most proficient and economical method to reduce yield losses from corn grey leaf spot is by introducing resistant plant varieties. In places where leaf spot occur, these crops can ultimately grow and still be resistant to the disease. Although the disease is not completely eliminated and resistant varieties show disease symptoms, at the end of the growing season, the disease is not as effective in reducing crop yield. SC 407 have been proven to be common corn variety that are resistant to grey leaf spot. If grey leaf spot infection is high, this variety may require fungicide application to achieve full potential. Susceptible varieties should not be planted in previously infected areas. \n The amount of initial inoculum will be reduced when a crop other than corn is planted for ≥2 years in that given area; meanwhile proper tillage methods are carried out. Clean plowing and 1-year crop rotation in the absence of corn allows for greater reductions of the disease as well. Note that conventional tilling can reduce disease but can lead to greater soil erosion."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"Rust spores arrive from outside the immediate area planted to corn, it is difficult to predict when this spray should be applied. Threshold has been proposed for initiation of fungicide sprays on later plantings of susceptible sweet corn. This threshold is only a guideline and is still in the process of being validated.",
+                            "chemicals":"Ethylene Bis Dithiocarbamates \n Thiophthalimides"
+                        }
+                    ]
+                },
+
+                {   
+                    "id":2,
+                    "name":"Northern Leaf Blight",
+                    "genericName":"Turcicum leaf blight",
+                    "pest":"Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica",
+                    "picture":"https://crop-protection-network.s3.amazonaws.com/articles/NLB-Daren-Mueller-02.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=O-wstwVPGz8",
+                    "symptoms":"Typical symptoms of northern corn leaf blight are canoe-shaped lesions 1 inch to 6 inches long. The lesions are initially bordered by gray-green margins. They eventually turn tan colored and may contain dark areas of fungal sporulation. The length or size of lesions may vary with in different corn hybrids reactions with different resistance genes. Lesions begin on the lower leaves and then spread to upper leaves. Severe symptoms can progress rapidly, resulting in blighted leaves. The disease can be confused with symptoms of Goss's leaf blight on some hybrids, and perhaps with Stewarts wilt where this disease occurs.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Crop rotation remains a solid tactic to help diminish disease threats. Rotating from corn to non-host crops helps reduce favorable environmental conditions for disease pathogens, risk of infection and disease levels. Any type of tillage that helps reduce crop residue from a previous corn crop will help manage northern corn leaf blight and other diseases overwintering in corn residue. Using a combination of management practices is particularly recommended in continuous corn grown with no-till and reduced tillage cropping systems."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"Foliar fungicides may be applied early in the growing season to corn seedlings as a risk-management tool for northern corn leaf blight and other corn diseases, including anthracnose leaf blight and corn eyespot. After northern corn leaf blight is identified during the growing season, fungicides should be applied early in the disease outbreak for maximum effectiveness.",
+                            "chemicals":"Ethylene Bis Dithiocarbamates \n Thiophthalimides"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   "id":2,
+            "name":"Papaya",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Anthracnose",
+                    "genericName":"Colletotrichum gloeosporioides",
+                    "pest":"Pathogen Colletotrichum gloeosporioides",
+                    "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/07/papaya-anthracnose-400x267.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=peQ60DIJI9A",
+                    "symptoms":"Papaya fruit start out hard with smooth green skins. As they mature, however, the skin turns golden and the flesh softens. That’s when the anthracnose can appear. \n If your tree has developed the disease anthracnose, you may see small tan to gray spots on papaya fruit or foliage. As these spots grow, they become larger sunken lesions with a water-soaked appearance. These spots are the initial symptoms of anthracnose of papaya trees. You’ll see the centers of the spots blacken over time. As the fungus produces spores, the black spots turn pink and the fruit beneath gets extremely soft",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Early action means that you can probably avoid using chemicals when treating papaya anthracnose. Use cultural control measures like harvesting mature fruit promptly, instead of leaving it on the tree. You should also remove all dead leaves and fruit from the garden. Take special care to get all those fallen under and around the papaya tree. Cleaning up weeds or other garden debris can prevent the spread of papaya anthracnose from rain splash back and plant-to-plant contact. Also, always sanitize tools to prevent the spread of diseases."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"Before papaya flowers appear or just as they appear, preventative fungicides may help control papaya anthracnose. Use a fungicide containing Copper hydroxide, Mancozeb, Azoxystrobin or Bacillus. Spray the orchard with the fungicide every two to four weeks.",
+                            "chemicals":"Copper hydroxide \n Mancozeb \n Azoxystrobin or Bacillus"
+                        }
+                    ]
+                },
+                {   
+                    "id":1,
+                    "name":"Black Spot",
+                    "genericName":"Colletotrichum gloeosporioides",
+                    "pest":"Fungus Asperisporium caricae",
+                    "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/06/papaya-blackk-spot.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=peQ60DIJI9A",
+                    "symptoms":"Initially, scattered tan spots, sometimes with a yellow halo, appear on lower leaves. On the underside of the leaves, these spots later enlarge and develop into black, raised, powdery pustules of up to 4 mm in diameter. At later stages of the disease, the lesions become necrotic and can cover large parts of the leaf. In heavy infections or co-infections with other fungal pathogens, diseased leaves can shed, leading to loss of vigor in affected trees. Shallow, light brown, irregular lesions with black fungal specks on their center are also visible on diseased fruit, although in a lesser measure than on leaves. Premature drop can occur when fruits are infected at early development stages. Despite the lesions, fruit flesh does show no signs of rotting. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"No alternative treatment against Asperisporium caricae has been discovered so far. Please get in touch with us in case you know of something that might help to fight this disease. Looking forward to hearing from you."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always considere an integrated approach with preventive measures together with biological treatments if available. Spraying with foliar fungicides such as dithiocarbamates can be effective in cases of heavy infestations. ",
+                            "chemicals":"fungicides such as dithiocarbamates"
+                        }
+                    ]
+                },
+                {   
+                    "id":2,
+                    "name":"Phytophthora",
+                    "genericName":"viburnum",
+                    "pest":"Fungus Oidium caricae-papayae",
+                    "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/06/papaya-blackk-spot.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=dQTmPrFbw5E",
+                    "symptoms":"Papaya plants of all ages are susceptible to Phytophthora root rot but seedlings up to 2 months old are most susceptible. Leaves of affected plants turn yellow, wil and eventually drop prematurely.\n Root rot generally originates as minor lesions on smaller lateral roots which quickly develop into a major rot of the tap root making trees unstable and prone to damage during high winds. Phytophthora is also known to cause stem or trunk rot following severe storms and cyclonic events. Brown sunken cankers occur on the stem and if favour-able wet weather for disease development prevails the upper portion of the plant will collapse due to the expanding rot. \n Immature and mature green fruit infected with Phytophthora develop water-soaked lesions and if conditions remain favourable for disease development, fruit become covered with off-white mycelium of the pathoge Infected fruit falling to the ground are considered a major source of the disease.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Root rot of papaya seedlings, caused by P. palmivora, in replant fields can be controlled with the virgin soil technique. Virgin soil (soil in which papaya has never been grown in before) is placed in planting holes about 30 cm in diameter and 10 cm deep with a mound about 4 cm high. Roots of papaya plants are protected by the virgin soil during the susceptible stage, and become resistant to the pathogen when they extend to the infested soil. Trees established with the virgin soil method in the replant fields produce fruit as abundantly as those growing in the first planting fields. The virgin soil method has the advantages of being relatively inexpensive, very effective and nonhazardous. \n Cultural practice is also important in the management of Phytophthora diseases of papaya. Incidence of Phytophthora root rot of mature trees in waterlogged areas during the rainy periods can be greatly reduced by improving drainage in the orchards. Infected fruit on the trees and those that have fallen to the ground should be removed to reduce the inoculum for aerial infection of fruit and stems, and infection of seedling roots in subsequent plantings."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Phytophthora fruit rot of papaya can be controlled by fungicides. Application of a preventive fungicide such as mancozeb or basic copper sulfate to the fruit column are effective in protecting papaya fruit from infection by P. palmivora. ",
+                            "chemicals":"Fungicide such as mancozeb or basic copper sulfate"
+                        }
+                    ]
+                },
+                {   
+                    "id":3,
+                    "name":"Powdery mildew",
+                    "genericName":"Golovinomyces orontii",
+                    "pest":"",
+                    "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/06/papaya-blackk-spot.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=mnda9xV5RLM",
+                    "symptoms":"White patches of fungal growth develop on the lower surface of the leaf. Under favourable conditions, the patches enlarge and merge to cover the entire lower surface. \n Leaf edges curl upwards, exposing the white, powdery fungal growth \n Purple to reddish blotches may also develop on leaves.\n Tiny, round, black fungal structures (cleistothecia) may also be present on the underside of the leaves. \n Pathogen colonises the fruit and produces white mycelial growth on the seeds giving it a powdery appearance \n Surfaces of the fruit harden and may crack.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":" Wettable sulfur, sulfur dust, or lime sulfur as well as potassium bicarbonate have proved helpful in controlling this disease. However, these treatments can be toxic to the plants if applied during hot weather. In some cases, baking powder, neem oil extracts and soap solutions can be useful. In all cases, these treatments are not very effective if the disease is severe. "
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"  Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides such as azoxystrobin, mancozeb can be applied to control powdery mildew on papaya.  ",
+                            "chemicals":"Fungicides such as azoxystrobin, mancozeb"
+                        }
+                    ]
+                },
+                {   
+                    "id":4,
+                    "name":"Ring Spot",
+                    "genericName":"papaya ringsopt",
+                    "pest":" Papaya ringspot virus - type P (PRSV-P) (Potyviridae)",
+                    "picture":"https://4.bp.blogspot.com/-1SDxUxFOw_8/WtECD0X5e8I/AAAAAAAAn6M/XJy2TSsh4iAQP9wlonW3wQCmCQCbzg4egCK4BGAYYCw/s1600/picture-789876.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=u-70SMh0QoY",
+                    "symptoms":" Initially, scattered tan spots, sometimes with a yellow halo, appear on lower leaves. On the underside of the leaves, these spots later enlarge and develop into black, raised, powdery pustules of up to 4 mm in diameter. At later stages of the disease, the lesions become necrotic and can cover large parts of the leaf. In heavy infections or co-infections with other fungal pathogens, diseased leaves can shed, leading to loss of vigor in affected trees. Shallow, light brown, irregular lesions with black fungal specks on their center are also visible on diseased fruit, although in a lesser measure than on leaves. Premature drop can occur when fruits are infected at early development stages. Despite the lesions, fruit flesh does show no signs of rotting. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"  No alternative treatment against Asperisporium caricae has been discovered so far. Please get in touch with us in case you know of something that might help to fight this disease. Looking forward to hearing from you. "
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always considere an integrated approach with preventive measures together with biological treatments if avvailable. Spraying with foliar fungicides such as dithiocarbamates can be effective in cases of heavy infestations. ",
+                            "chemicals":"Spraying with foliar fungicides such as dithiocarbamates"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   "id":3,
+            "name":"Strawberry",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Leaf Scorch",
+                    "genericName":"Diplocarpon earlianum",
+                    "pest":"Fungus Diplocarpon earliana",
+                    "picture":"https://www.gardeningknowhow.com/wp-content/uploads/2018/09/strawberry-scorch-400x267.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=CYP_i2_wYgw",
+                    "symptoms":"Irregular dark purple or brown blotches on upper leaf surface which may colaesce to produce large purplish brown patches; tissue between blotches may turn purple or red; lesions may also develop on flowers and fruits; affected petals may wither and drop from plant; lesions may girdle peduncles causing death of fruit. Avoid amendment with supplemental nitrogen in spring, as this may enhance disease. Keep moisture levels down and avoid long wetness periods by monitoring irrigation schedules; if possible, use drip irrigation rather than overhead. Remove foliage and crop residues after picking or at renovation to remove inoculum and delay disease increase in late summer and fall. Fungicide treatments are effective during the flowering period, and during late summer and fall.",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Plant resistant varieties; regular renewal of plants; plant in an area with good air circulation and drainage in full sun; remove all foliage from plants at harvest"
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":"As far as chemical control is concerned, while there are some differences in the timing and biology of the leaf spot fungi, they mostly respond similarly to broad-spectrum fungicides and can be managed collectively. The exception is angular leaf spot. Since this disease is caused by a bacterial pathogen, it does not respond to most fungicides except copper. Below is a table of efficacy ratings of fungicides for leaf spot control in strawberries. Since infections often occur on the leaf underside, good coverage of both leaf surfaces is needed, especially of young leaves, which are most susceptible.",
+                            "chemicals":"Azoxystrobin \n  potassium bicarbonate \n trifloxystrobin \n penthiopyrad \n difenoconazole + cyprodinil + pyraclostrobin + boscalid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   "id":4,
+            "name":"Orange",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Anthracnose",
+                    "genericName":"Colletotrichum gloeosporioides",
+                    "pest":"ungus Colletotrichum musa",
+                    "picture":"https://www.techagro.org/public/journals/4/article_851_cover_en_US.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=N-jlU2Sv8Dk",
+                    "symptoms":"Leaves dropping prematurely; leaves covered in dark fungal spores; red to green or black streaks on the mature fruits",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":" Bio-fungicides based on Bacillus subtilis or Bacillus amyloliquefaciens work fine if applied during favorable weather conditions. Hot water treatment of seeds or fruits (48°C for 20 minutes) can kill any fungal residue and prevent further spreading of the disease in the field or during transport. Foliar sprays or seed treatments with fungicides containing copper sulfate can be used to lower the risk of infection. "
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing azoxystrobin or chlorothalonil can be sprayed regularly to lower the risk of infection. Seed treatment with these compounds can also be envisaged. Finally, post-harvest fungicides together with a food-grade wax can be applied to reduce the incidence of fruits bound to be shipped to overseas markets. ",
+                            "chemicals":"Fungicides containing azoxystrobin or chlorothalonil can be sprayed regularly"
+                        }
+                    ]
+                },
+                {   
+                    "id":1,
+                    "name":"Brown Rot",
+                    "genericName":"Phytophthora spp",
+                    "pest":"Fungus overwinters in dry leaves or mummified fruits hanging from the trees and its spores are spread via wind, water or insects. The infection is favored by the presence of wounds on fruits (birds, insects) or by the contact between healthy and infected parts",
+                    "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsanZQipHsZqWAssJM2rIJbciZQq7URa4wSg&usqp=CAU",
+                    "youtube":"https://www.youtube.com/watch?v=N-jlU2Sv8Dk",
+                    "symptoms":" Symptoms vary depending on the crop and are mainly characterized by a blossom blight and a fruit rot phase. The first symptom of blossom blight is the withering of flowers, which turn brown and often remain affixed to the twig in a gummy mass. Infections may extend into the twig and can girdle it. If shoots do not die off completely, the infection is carried over from the blossom to the developing leaves and fruits. Leaves dry out but remain on the tree throughout the whole year. Fruit rot can affect fruits hanging on trees as well as stored ones. Soft, brown patches appear on the fruits. As the patches grow, white or yellow pustules develop on the tan areas, sometimes in concentric circles. The fruits gradually dehydrate, rot, and mummify on the tree. Stored fruits may not develop pustules and may turn completely black. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":" The eradication of the wounding agent is the most effective ways of controlling the fruit rot phase. Control of insects and birds that serve as vectors or that inflict wounds on fruits is one way to reduce the incidence of the disease. Birds may be controlled with scarecrows. Wasp nests should be sought out and destroyed. Particular care is needed in packing and storage of fruit because the fungus can spread between fruits. "
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Cherries are the least susceptible stone fruit to this disease and preventive sprays may not be needed unless the weather is particularly favorable for infection or the orchard has a history of this disease. One of two applications of fungicides based on difenoconazole and fenhexamid can be effective. At a later stage of infection, it is not possible to eliminate the fungus. Use a protective fungicide after adverse weather conditions such as hail. Insect control may be an important consideration because Monilia laxa prefers infection through wounds. ",
+                            "chemicals":"Fungicides based on difenoconazole and fenhexamid can be effective"
+                        }
+                    ]
+                },
+                {   
+                    "id":2,
+                    "name":"Citrus canker",
+                    "genericName":"Xanthomonas axonopodis",
+                    "pest":"bacteria Xanthomonas",
+                    "picture":"https://www.apsnet.org/edcenter/disandpath/prokaryote/PublishingImages/CitrusCankerlead.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=_a5VhAILNhU",
+                    "symptoms":" Trees can be affected at all stages of their development and symptoms may appear on leaves, fruits or twigs. Tiny, slightly raised and spongy lesions develop first on both surfaces of newly-infected leaves. As they mature, these spots develop into rust-brown wart-like craters that are surrounded by a distinctive bright yellow halo. They eventually erupt, releasing their content, and forming a typical lesion with a light brown or gray center and oily, water-soaked brownish margin. Occasionally, the center of old cankers fall out, leaving behind a shot-hole effect. Similar symptoms can appear on fruits and twigs, where the cankers can reach a sizable dimension. The center of the lesion becomes characteristically raised, scabby or corky. Defoliation and premature fruit drop ensue and twigs may be killed by girdling of vascular tissues. Fruits that reach maturity are not marketable. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":" Unfortunately, no effective biological control methods are available at this time. . "
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Unfortunately, there is no effective control on citrus canker once it has been detected. Preventive measures such as the clearing and destruction of fallen tree material are essential to minimize the effect of the disease. The control of citrus psyllids can also be a way to limit the damage. Copper-based fungicides or bactericides can provide a barrier against infection, but they will not treat an existing infection. ",
+                            "chemicals":"Copper-based fungicides or bactericides can provide a barrier against infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   "id":5,
+            "name":"Banana",
+            "disease":[
+                {   
+                    "id":0,
+                    "name":"Anthracnose ",
+                    "genericName":"Colletotrichum musae",
+                    "pest":"Fungus Colletotrichum musa",
+                    "picture":"https://res.cloudinary.com/jamefiles/image/fetch/c_scale,h_179,w_320/https://www.histerius.com/hs0220/anthracnose_banana.jpg",
+                    "youtube":"https://www.youtube.com/watch?v=5YhEZNXsh7s",
+                    "symptoms":" The fungus causes dark-brown to black, sunken spots on the peel of infected fruits. Initial symptoms are visible on green fruits, and are characterized by dark-brown to black lenticular, sunken lesions with pale margins on the peel. On yellowing fruits, these lesions are of variable sizes and can coalesce to become sizable black sunken patches. Orange to salmon pink colored fungal growth appear in their center. The symptoms can also start to appear on the tip of the fruit and result from a former floral infection. Affected fruits can ripen prematurely, with the pulp becoming progressively affected by rot. The first symptoms may also appear long after harvest, during transportation or storage. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Treatments of fruits at harvest with biofungicides based on 10% Arabic gum together with 1.0% chitosan (a derivative of chitin) has been shown to partly control the disease during storage. A variety of plant-based mixtures have been used with some success to avoid the growth of the pathogen, including citric extracts,  Zingiber officinale rhizome extracts as well as leaf extracts of Acacia albida, Polyalthia longifolia and Clerodendrum inerme. These promising data still need to be confirmed in field experiments. Immersion of green fruits in hot water at 55°C for 2 minutes also reduces the incidence."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. During cultivation, banana bunches can be sprayed with products containing mancozeb (0.25 %) or benzimidazoles (0.05 %) and later covered to avoid any contamination. Harvested fruits can be dipped or sprayed with fungicides containing benzimidazole. Coating of the fruits with the food-grade chemical butylated hydroxyanisole (BHA) might have the potential to enhance the activity of these fungicides. ",
+                            "chemicals":"Sprayed with products containing mancozeb (0.25 %) or benzimidazoles (0.05 %)"
+                        }
+                    ]
+                },
+                {   
+                    "id":1,
+                    "name":"Black sigatoka ",
+                    "genericName":"Colletotrichum musae",
+                    "pest":"Fungi Mycosphaerrela sp.",
+                    "picture":"data:image/jpeg;base64,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",
+                    "youtube":"https://www.youtube.com/watch?v=lb8_f_VwPhc",
+                    "symptoms":" The fungus causes dark-brown to black, sunken spots on the peel of infected fruits. Initial symptoms are visible on green fruits, and are characterized by dark-brown to black lenticular, sunken lesions with pale margins on the peel. On yellowing fruits, these lesions are of variable sizes and can coalesce to become sizable black sunken patches. Orange to salmon pink colored fungal growth appear in their center. The symptoms can also start to appear on the tip of the fruit and result from a former floral infection. Affected fruits can ripen prematurely, with the pulp becoming progressively affected by rot. The first symptoms may also appear long after harvest, during transportation or storage. ",
+                    "biological":[
+                        {
+                            "methodNo":1,
+                            "Description":"Treatments of fruits at harvest with biofungicides based on 10% Arabic gum together with 1.0% chitosan (a derivative of chitin) has been shown to partly control the disease during storage. A variety of plant-based mixtures have been used with some success to avoid the growth of the pathogen, including citric extracts,  Zingiber officinale rhizome extracts as well as leaf extracts of Acacia albida, Polyalthia longifolia and Clerodendrum inerme. These promising data still need to be confirmed in field experiments. Immersion of green fruits in hot water at 55°C for 2 minutes also reduces the incidence."
+                        }
+                    ],
+                    "chemical":[
+                        {
+                            "methodNo":1,
+                            "Description":" Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing mancozeb, calixin or chlorothalonil can be applied as foliar sprays when disease is not widespread. Rotations of systemic fungicides such as propiconazole, fenbuconazole or azoxystrobin also work fine. The rotation is important to prevent the build up of resistance in the fungus. ",
+                            "chemicals":"Fungicides such as propiconazole, fenbuconazole or azoxystrobin also work fine"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+
+    ]
+}
+

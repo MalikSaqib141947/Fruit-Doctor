@@ -4,7 +4,12 @@ Fruit Doctor is an android and IOS mobile application which allows the users, es
 
 # Technologies used
 
-Flutter, MERN Stack, Python, Flask, Tensorflow, Keras
+- Flutter
+- MERN Stack
+- Python
+- Flask
+- Tensorflow
+- Keras
 
 # YouTube Demo
 
